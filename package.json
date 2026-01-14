@@ -1,0 +1,6 @@
+{
+  "name": "scomm-server-stack",
+  "private": true,
+  "version": "0.1.0",
+  "description": "ChirpStack server stack with Node-RED, Grafana, and InfluxDB."
+}
